@@ -1,27 +1,18 @@
 # KDE 
 
 ## Initial Setup
-Workspace Behavior -> Desktop Effects
-Blur, Wobbly Windows, Magic Lamp (400ms), Dim Screen for Admin Mode, Slide Back, Overview on
-
-Window Managment -> Windows Behavior -> Advanced -> Window Placement: Centered
-Task Switcher -> Large Icons
-KWin Scripts -> Force Blur, MACsimize, Latte Windows Colors, Latte launcher
-Notifications -> Bottom Right
-Compositor MEthode -> Smooth, OpenGL 3.0
+Unter `Verhalten des Arbeitsbereiches` und `Arbeitsflächen-Effekte` aktiviert man Verwischen, Wabernde Fenster, Eltern-Fenster abdunkeln, Nach hinten gleiten, Übersicht und Wunderlampe auf 400ms. Unter `Fensterverwaltung` und `Fensterverhalten` stellt man unter `Erweitert` die Fensterpositionierung auf Zentriert. Den Ànwendungsumschalter stellt man wenn möglich auf Große Symbole, ansonsten auf Breeze. Unter `KWin-Scripte` läd man Force Blur, MACsimize, Latte Window Colors und Latte Launcher Menu herunter und aktiviert diese. Die `Benachrichtigungen` werden unten rechts angezeigt. Die `Skalierungsmethode` wird auf weich gestellt. Anschließedn wird Kvantum installiert.
 ```
 sudo pacman -S kvantum
 ```
+</br>
 
-## Installing and Configuring KDE Plasma Tehem, Icons, Cursor and Fonts
+## Themen, Icons, Cursor und Fonts
 Global Theme: Monterey - Vinceluice
 Applications Style: Colloid gtk
 rename .themes/colloid to colloid-01 and download colloid-dark
 
-## Apply themes
-download Wallpaper plugin Inactive Blur
-setup kvantum Theme and Title Behavior
-sddm theme by Vinceluice
+
 
 ## Installing Ulauncher
 copy Themes to ~/.config/ulauncher/user-themes
