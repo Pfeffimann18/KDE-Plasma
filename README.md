@@ -12,8 +12,6 @@ Global Theme: Monterey - Vinceluice
 Applications Style: Colloid gtk
 rename .themes/colloid to colloid-01 and download colloid-dark
 
-
-
 ## Installing Ulauncher
 copy Themes to ~/.config/ulauncher/user-themes
 
