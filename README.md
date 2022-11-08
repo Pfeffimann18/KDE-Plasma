@@ -18,14 +18,16 @@ copy Themes to ~/.config/ulauncher/user-themes
 ## Installing and Configuring Plasmoids Widgets
 copy Widgets to ~/.local/share/Plasma
 set filter to installed
-```
+```bash 
 yay -S plasma5-applets-windows-buttons
 yay -S plasma5-applets-wind-appmenu
 ```
 
 ## Latte-Dock
+```bash
 sudo pacman -S latte-dock
-enable autostart and support borderless mximised windows
+```
+enable autostart and support borderless maxsimised windows
 import config file and remove old panels
 
 ## Firefox
