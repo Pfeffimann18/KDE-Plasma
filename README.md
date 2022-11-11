@@ -8,9 +8,9 @@ sudo pacman -S kvantum
 </br>
 
 ## Themen, Icons, Cursor und Fonts
-Global Theme: Monterey - Vinceluice
-Applications Style: Colloid gtk
-rename .themes/colloid to colloid-01 and download colloid-dark
+Global Theme: Monterey - Vinceluice </br>
+Anwendunsg-Stil: Kvantum, GTK: WhiteSur </br>
+Startbildschirm: 1604 Arch Splash </br>
 
 ## Installing Ulauncher
 copy Themes to ~/.config/ulauncher/user-themes
@@ -19,8 +19,8 @@ copy Themes to ~/.config/ulauncher/user-themes
 copy Widgets to ~/.local/share/Plasma
 set filter to installed
 ```bash 
-yay -S plasma5-applets-windows-buttons
-yay -S plasma5-applets-wind-appmenu
+yay -S plasma5-applets-window-buttons
+yay -S plasma5-applets-windos-appmenu
 ```
 
 ## Latte-Dock
