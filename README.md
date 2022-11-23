@@ -29,7 +29,9 @@ sudo pacman -S latte-dock
 ```
 enable autostart and support borderless maxsimised windows
 import config file and remove old panels
+füge `OnlyShownIn=KDE` in `~/.config/autostart/org.kde.latte-dock.desktop`
 
 ## Firefox
 install Firefox-appmenu by Vinceluice
+
 
