@@ -38,4 +38,9 @@ füge `OnlyShownIn=KDE` in `~/.config/autostart/org.kde.latte-dock.desktop`
 ## Firefox
 install Firefox-appmenu by Vinceluice
 
+## Konsole
+```bash
+cp macOS.profile ~/.locale/share/konsole
+cp purify.colorscheme ~/.locale/share/konsole
+
 
